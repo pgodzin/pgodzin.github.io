@@ -52,7 +52,7 @@ $(document).ready(function(){
   })
 
   var spells = [
-    'There\'s a lady who\'s sure,
+    'There\'s a lady who\'s sure,',
     'All that glitters is gold'
   ];
   var hour = (new Date).getHours();
