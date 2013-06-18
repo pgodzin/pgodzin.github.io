@@ -1,5 +1,3 @@
-// ascii art by http://ascii.co.uk/art/rainbow
-
 (function($) {
 $(document).ready(function(){
 
