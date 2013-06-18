@@ -51,9 +51,8 @@ $(document).ready(function(){
     return false;
   })
 
-  var spells = [
-    'There\'s a lady who\'s sure all that glitters is gold'
-  ];
+  var spells = ['Theres a lady whos sure all that glitters is gold'];
+  
   var hour = (new Date).getHours();
   $('#spell').html(spells[hour%spells.length]);
 
